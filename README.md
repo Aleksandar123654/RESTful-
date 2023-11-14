@@ -8,11 +8,11 @@ Description: Create a new customer.
 Description: Update an existing customer by ID.
 4. DELETE /api/customers/{id}
 Description: Soft delete a customer by setting them as inactive.
-. GET /api/shopping-lists/{id}
+5. GET /api/shopping-lists/{id}
 Description: Retrieve information about a shopping list by ID.
-. DELETE /api/shopping-lists/{id}
+6. DELETE /api/shopping-lists/{id}
 Description: Delete a shopping list.
-. GET /api/books/{id}
+7. GET /api/books/{id}
 Description: Retrieve information about a book by ID.
-. DELETE /api/books/{id}
+8. DELETE /api/books/{id}
 Description: Delete a book.
